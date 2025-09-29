@@ -2,4 +2,4 @@
 
 Educational Initiatives: Ei
 
-Ei_2024-25: Coding exercises
+Ei_2025-26: Coding exercises
